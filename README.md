@@ -1,5 +1,4 @@
-markdown
-Copy code
+
 # 📚 Projeto Java: Cálculo de Média de Aluno
 
 Este é um projeto simples em **Java** desenvolvido para calcular a média das notas de um aluno e determinar sua situação acadêmica: **Aprovado**, **Recuperação** ou **Reprovado**, com base em critérios definidos.
